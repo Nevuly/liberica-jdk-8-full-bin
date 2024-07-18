@@ -1,6 +1,6 @@
 pkgbase = liberica-jdk-8-full-bin
 	pkgdesc = BellSoft builds of OpenJDK are fully certified and 100% open source Java Development Kits (JDKs) for all Java development and production workloads. Full version includes OpenJFX.
-	pkgver = 8u412+9
+	pkgver = 8u422+6
 	pkgrel = 1
 	url = https://bell-sw.com/
 	install = liberica-jdk-8-full.install
@@ -21,14 +21,14 @@ pkgbase = liberica-jdk-8-full-bin
 	provides = java-runtime-headless-openjdk=8
 	provides = java-runtime=8
 	provides = java-runtime-openjdk=8
-	provides = liberica-jdk-8-bin=8u412+9
-	provides = liberica-jdk-8-full-bin=8u412+9
-	provides = liberica-jdk-8-lite-bin=8u412+9
-	provides = liberica-jre-8-bin=8u412+9
-	provides = liberica-jre-8-full-bin=8u412+9
-	source_i686 = https://download.bell-sw.com/java/8u412+9/bellsoft-jdk8u412+9-linux-i586-full.tar.gz
-	sha1sums_i686 = 92287930b53506ce97750e89009cda68ccd6dd39
-	source_x86_64 = https://download.bell-sw.com/java/8u412+9/bellsoft-jdk8u412+9-linux-amd64-full.tar.gz
-	sha1sums_x86_64 = d22a865f8787e97186b9b30b50d1b9e81f1722e8
+	provides = liberica-jdk-8-bin=8u422+6
+	provides = liberica-jdk-8-full-bin=8u422+6
+	provides = liberica-jdk-8-lite-bin=8u422+6
+	provides = liberica-jre-8-bin=8u422+6
+	provides = liberica-jre-8-full-bin=8u422+6
+	source_i686 = https://download.bell-sw.com/java/8u422+6/bellsoft-jdk8u422+6-linux-i586-full.tar.gz
+	sha1sums_i686 = 4667f44d2f1b58954da8cec1eb7765db46891537
+	source_x86_64 = https://download.bell-sw.com/java/8u422+6/bellsoft-jdk8u422+6-linux-amd64-full.tar.gz
+	sha1sums_x86_64 = e02b071b5a61c6bb6547a68446c946024fb2d67f
 
 pkgname = liberica-jdk-8-full-bin
